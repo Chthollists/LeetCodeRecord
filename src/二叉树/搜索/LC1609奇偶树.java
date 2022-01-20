@@ -1,7 +1,7 @@
 package 二叉树.搜索;
 
 
-import 二叉树.TreeNode;
+import common.TreeNode;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

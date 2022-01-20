@@ -1,6 +1,6 @@
 package 二叉树.还原二叉树;
 
-import 二叉树.TreeNode;
+import common.TreeNode;
 
 import java.util.Deque;
 import java.util.LinkedList;
