@@ -1,4 +1,4 @@
-package 搜索.BFS;
+package 图.最短路径问题;
 
 import java.util.*;
 
