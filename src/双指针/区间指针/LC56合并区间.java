@@ -1,4 +1,4 @@
-package 双指针;
+package 双指针.区间指针;
 
 import java.util.ArrayList;
 import java.util.Arrays;

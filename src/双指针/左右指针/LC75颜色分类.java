@@ -1,4 +1,4 @@
-package 双指针;
+package 双指针.左右指针;
 
 /**
  * @author Chthollist email:
